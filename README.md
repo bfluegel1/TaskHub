@@ -3,7 +3,7 @@
 > **DE** – Leichte, offline-fähige Aufgaben-PWA für schnelle persönliche Organisation.  
 > **EN** – Lightweight, offline-capable task PWA for fast personal tasking.
 
-[Demo (TaskHub2)](https://devfluegel.github.io/pwa/taskhub2/index.html)
+[Demo ](https://bfluegel1.github.io/TaskHub/index.html)
 
 ---
 
